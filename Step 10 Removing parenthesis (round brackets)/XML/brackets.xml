@@ -1,0 +1,485 @@
+<text>
+  <body>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C1">
+        <form type="lemma" xml_id="CF1">hello l(e)mma
+          <orth>ⲁⲙⲏ(ⲉ)ⲓⲛ</orth>
+        </form>
+        <form xml_id="CF2">hello non lemma
+          <orth>ⲁⲙⲏ(ⲉ)ⲓⲛ</orth>
+        </form>
+        <form xml_id="CF2">
+          <orth>ⲁⲙⲏ(ⲉ)ⲓⲛ</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.1) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.1) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.1)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+          <entry n="2" type="hom" xml_id="C2">
+        <form type="lemma" xml_id="CF3">ⲁⲙⲏ(ⲉ)ⲓⲛ</form>
+        <form xml_id="CF4">ⲁⲙⲏ(ⲉ)ⲓⲛ</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.1) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.1) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.1)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>  
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C3">
+        <form type="lemma" xml_id="CF5">*(ⲑⲓϥⲓ)</form>
+        <form xml_id="CF6">*(ⲑⲓϥⲓ)</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.2) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.2) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.2)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C4">
+        <form type="lemma" xml_id="CF7">
+          <orth>*(ⲑⲓϥⲓ)</orth>
+        </form>
+        <form xml_id="CF8">
+          <orth>*(ⲑⲓϥⲓ)</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.2) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.2) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.2)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>                 
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C5">
+        <form type="lemma" xml_id="CF8">ⲉⲓ (ϩⲁ(ϩ)ⲧⲛ-)</form>
+        <form xml_id="CF9">ⲉⲓ (ϩⲁ(ϩ)ⲧⲛ-)</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.3) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.3) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.3)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C6">
+        <form type="lemma" xml_id="CF10">
+          <orth>ⲉⲓ (ϩⲁ(ϩ)ⲧⲛ-)</orth>
+        </form>
+        <form xml_id="CF11">
+          <orth>ⲉⲓ (ϩⲁ(ϩ)ⲧⲛ-)</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.3) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.3) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.3)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>          
+      
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C7">
+        <form type="lemma" xml_id="CF12">ⲉⲓ ((ⲛ)ⲛⲁϩⲣⲛ-)</form>
+        <form xml_id="CF13">ⲉⲓ ((ⲛ)ⲛⲁϩⲣⲛ-)</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.4) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.4) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.4)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C8">
+        <form type="lemma" xml_id="CF14">
+          <orth>ⲉⲓ ((ⲛ)ⲛⲁϩⲣⲛ-)</orth>
+        </form>
+        <form xml_id="CF15">
+          <orth>ⲉⲓ ((ⲛ)ⲛⲁϩⲣⲛ-)</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Not a whitespace (1.4) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Not a whitespace (1.4) </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Not a whitespace (1.4)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>                
+    </superEntry>
+
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C9">
+        <form type="lemma" xml_id="CF16">ⲁⲙⲁϩⲧⲉ (ⲉϩⲣⲁⲓ) ⲉϫⲛ-</form>
+        <form xml_id="CF17">ⲁⲙⲁϩⲧⲉ (ⲉϩⲣⲁⲓ) ⲉϫⲛ-</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.1) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.1)  </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.1) </quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C10">
+        <form type="lemma" xml_id="CF18">
+          <orth>ⲁⲙⲁϩⲧⲉ (ⲉϩⲣⲁⲓ) ⲉϫⲛ-</orth>
+        </form>
+        <form xml_id="CF19">
+          <orth>ⲁⲙⲁϩⲧⲉ (ⲉϩⲣⲁⲓ) ⲉϫⲛ-</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.1)</quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.1)</quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.1)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+    </superEntry>
+
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C11">
+        <form type="lemma" xml_id="CF20">ϭⲓ (ⲙⲡ)ⲁⲓⲕ </form>
+        <form xml_id="CF21">ϭⲓ (ⲙⲡ)ⲁⲓⲕ </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.2) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.2)  </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.2) </quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C12">
+        <form type="lemma" xml_id="CF22">
+          <orth>ϭⲓ (ⲙⲡ)ⲁⲓⲕ</orth>
+        </form>
+        <form xml_id="CF23">
+          <orth>ϭⲓ (ⲙⲡ)ⲁⲓⲕ</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.2)</quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.2)</quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.2)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C13">
+        <form type="lemma" xml_id="CF24">ϫⲓ (ⲙⲡ)ⲟⲩⲟ(ⲉ)ⲓ</form>
+        <form xml_id="CF25">ϫⲓ (ⲙⲡ)ⲟⲩⲟ(ⲉ)ⲓ</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.2_1) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.2_1)  </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.2_1) </quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C14">
+        <form type="lemma" xml_id="CF26">
+          <orth>ϫⲓ (ⲙⲡ)ⲟⲩⲟ(ⲉ)ⲓ</orth>
+        </form>
+        <form xml_id="CF27">
+          <orth>ϫⲓ (ⲙⲡ)ⲟⲩⲟ(ⲉ)ⲓ</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Not a word beginning (2.2_1)</quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Not a word beginning (2.2_1)</quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Not a word beginning (2.2_1)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C15">
+        <form type="lemma" xml_id="CF28">(ⲉ)ⲣⲏⲃ</form>
+        <form xml_id="CF29">(ⲉ)ⲣⲏⲃ</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Word beginning (2.3) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Word beginning (2.3)  </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Word beginning (2.3) </quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C16">
+        <form type="lemma" xml_id="CF30">
+          <orth>(ⲉ)ⲣⲏⲃ</orth>
+        </form>
+        <form xml_id="CF31">
+          <orth>(ⲉ)ⲣⲏⲃ</orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Word beginning (2.3)</quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Word beginning (2.3)</quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Word beginning (2.3)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+    </superEntry>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C17">
+        <form type="lemma" xml_id="CF32">(ⲕⲱⲧϣ)</form>
+        <form xml_id="CF33">(ⲕⲱⲧϣ)</form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Word beginning (2.4) </quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Word beginning (2.4)  </quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Word beginning (2.4) </quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry n="1" type="hom" xml_id="C18">
+        <form type="lemma" xml_id="CF34">
+          <orth>(ⲕⲱⲧϣ)</orth>
+        </form>
+        <form xml_id="CF35">
+          <orth>ⲕⲱⲧϣ</orth>
+        </form>
+        <form xml_id="CF35">
+          <orth></orth>
+        </form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+        <sense>
+          <cit type="translation" xmllang="de">
+            <quote>Whitespace. Word beginning (2.4)</quote>
+          </cit>
+          <cit type="translation" xmllang="en">
+            <quote>Whitespace. Word beginning (2.4)</quote>
+          </cit>
+          <cit type="translation" xmllang="fr">
+            <quote>Whitespace. Word beginning (2.4)</quote>
+          </cit>
+          <cit>
+            <bibl>CD 1a; CED 1; KoptHWb 1</bibl>
+          </cit>
+        </sense>
+      </entry>
+        <entry n="2" type="compound" xml_id="C856">
+          <form type="lemma" xml_id="CF3053">ⲕⲧⲉⲉⲓⲁⲧ⸗</form>
+          <form xml_id="CF3054"><orth>ⲕⲧⲉⲉⲓⲁⲧ⸗</orth><oRef>ⲕⲧⲉ ⲉⲓⲁⲧ⸗</oRef></form>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Kompositverb</subc>
+          </gramGrp>
+          <sense>
+            <cit type="translation" xml:lang="de">
+              <quote>sich umsehen, den Blick wenden</quote>
+            </cit>
+            <cit type="translation" xml:lang="en">
+              <quote>look round, turn eye</quote>
+            </cit>
+            <cit type="translation" xml:lang="fr">
+              <quote>regarder</quote>
+            </cit>
+            <cit>
+              <bibl>CD 73b; KoptHWb 52; ChLCS 14a</bibl>
+            </cit>
+          </sense>
+        </entry>
+    </superEntry>
+  </body>
+</text>

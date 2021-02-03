@@ -1,0 +1,93 @@
+<superentry>
+  <entry xml:id="C327">
+    <form>
+      <orth>Julius</orth>
+      <usg>X2</usg>
+                <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+    </form>
+  <form>
+      <orth>John</orth>
+      <usg>X3</usg>
+    </form>
+    <form>
+      <orth>Ned</orth>
+      <usg>X1</usg>
+    </form>
+            <etym>
+          <xr type="cf">
+            <ref target="#ⲱⲙⲕ">schlucken</ref>
+          </xr>
+        </etym>
+        <sense n="1">
+          <cit type="translation" xml:lang="de">
+            <quote>ein Flüssigkeitsmaß</quote>
+          </cit>
+          <cit type="translation" xml:lang="en">
+            <quote>liquid measure</quote>
+          </cit>
+          <cit type="translation" xml:lang="fr">
+            <quote>mesure de liquide</quote>
+          </cit>
+          <cit>
+            <bibl>CD XV; KoptHWb 5, 485; ChLCS 4a</bibl>
+          </cit>
+        </sense>
+                <sense n="2">
+          <cit type="translation" xml:lang="de">
+            <quote>ein Flüssigkeitsmaß</quote>
+          </cit>
+          <cit type="translation" xml:lang="en">
+            <quote>liquid measure</quote>
+          </cit>
+          <cit type="translation" xml:lang="fr">
+            <quote>mesure de liquide</quote>
+          </cit>
+          <cit>
+            <bibl>CD XV; KoptHWb 5, 485; ChLCS 4a</bibl>
+          </cit>
+        </sense>
+    </entry>
+  <entry xml:id="C328">
+    <form>
+      <orth>Max</orth>
+      <usg>Y2</usg>
+    </form>
+    <form>
+      <orth>Max</orth>
+      <usg>Y3</usg>
+    </form>
+  <form>
+      <orth>Max</orth>
+      <usg>Y1</usg>
+    </form>
+        <etym>
+          <xr type="cf">
+            <ref target="#ⲱⲙⲕ">schlucken</ref>
+          </xr>
+        </etym>
+        <sense puk="2">
+          <cit type="puks" xml:lang="de">
+            <quote>ein Flüssigkeitsmaß</quote>
+            <quote>ein Flüssigkeitsmaß</quote>
+          </cit>
+          <cit type="translation" xml:lang="en">
+            <quote>liquid measure</quote>
+          </cit>
+          <cit type="translation" xml:lang="fr">
+            <quote>mesure de liquide</quote>
+          </cit>
+          <cit>
+            <bibl>CD XV; KoptHWb 5, 485; ChLCS 4a</bibl>
+          </cit>
+           <puk>
+            <bibl>CD XV; KoptHWb 5, 485; ChLCS 4a</bibl>
+          </puk>
+        </sense>           
+    </entry>
+
+</superentry>

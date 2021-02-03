@@ -1,0 +1,40 @@
+<superentry>
+  <entry>
+    <form>
+      <orth>Ned</orth>
+      <usg>X1</usg>
+    </form>
+    <form>
+      <orth>Julius</orth>
+      <usg>X2</usg>
+                <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+    </form>
+  <form>
+      <orth>John</orth>
+      <usg>X3</usg>
+    </form>
+    </entry>
+  <entry>
+    <form>
+      <orth>Max</orth>
+      <usg>Y1</usg>
+    </form>
+              <form>
+      <orth>Max</orth>
+      <usg>Y2</usg>
+    </form>
+    <form>
+      <orth>Max</orth>
+      <usg>Y3</usg>
+    </form>
+  <cit>
+            <bibl>CD 7b; CED 6; KoptHWb 5, 485; DELC 9; ChLCS 4a</bibl>
+          </cit>
+    </entry>
+
+</superentry>

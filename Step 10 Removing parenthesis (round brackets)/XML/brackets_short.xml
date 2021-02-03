@@ -1,0 +1,17 @@
+<text>
+  <body>
+    <superEntry>
+      <entry n="1" type="hom" xml_id="C1">
+        <form type="lemma" xml_id="CF1"><orth>(ⲁ)ⲙⲏⲉⲓⲛ</orth></form>
+        <form xml_id="CF2"><orth>(ⲁⲙⲏⲉⲓⲛ)</orth><oRef>(ⲁⲙⲏⲉⲓⲛ)</oRef></form>
+        <form xml_id="CF2">(ⲁⲙⲏⲉⲓⲛ)<oRef>(ⲁⲙⲏⲉⲓⲛ)</oRef></form>
+        <form xml_id="CF3">(ⲁ)ⲙⲏⲉⲓⲛ</form>
+        <form xml_id="CF4"><orth>(ⲁⲙⲏⲉⲓⲛ) ⲁⲙⲏⲉⲓⲛ</orth></form>
+        <gramGrp>
+          <pos>Zahlzeichen</pos>
+          <note>erster Buchstabe des Alphabeths ⲁⲗⲫⲁ</note>
+        </gramGrp>
+         </entry>
+    </superEntry>
+  </body>
+</text>

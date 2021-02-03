@@ -1,0 +1,396 @@
+   <superEntry>
+      <entry xml:id="C84">
+        <form type="lemma" xml:id="CF288">
+          <usg type="geo">S</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form type="lemma" xml:id="CF_noUSG">
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF307" xml:id="CF_TMP7">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏⲏⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF307" xml:id="CF_TMP8">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF306" xml:id="CF_TMP9">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏⲉⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF306" xml:id="CF_TMP10">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF305" xml:id="CF_TMP11">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲏⲉⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form status="added" corresp="CF305" xml:id="CF_TMP12">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲏⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" status="added" corresp="CF303" xml:id="CF_TMP13">
+          <usg type="geo">S</usg>
+          <orth n="2">ⲁⲙⲏⲉⲓⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" status="added" corresp="CF303" xml:id="CF_TMP14">
+          <usg type="geo">S</usg>
+          <orth n="2">ⲁⲙⲏⲓⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF289">
+          <usg type="geo">S</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF290">
+          <usg type="geo">B</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF291">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF292">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF293">
+          <usg type="geo">F</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF294">
+          <usg type="geo">Ak</usg>
+          <orth>ⲁⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF295">
+          <usg type="geo">Ak</usg>
+          <orth>ⲉⲙⲟⲩ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>m.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF296">
+          <usg type="geo">S</usg>
+          <orth>ⲁⲙⲏ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>sg.</number>
+            <gen>f.</gen>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF297">
+          <usg type="geo">B</usg>
+          <orth>ⲁⲙⲏ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>sg.</number>
+            <gen>f.</gen>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF298">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>sg.</number>
+            <gen>f.</gen>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF299">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲏ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>sg.</number>
+            <gen>f.</gen>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF300">
+          <usg type="geo">F</usg>
+          <orth>ⲁⲙⲏ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>sg.</number>
+            <gen>f.</gen>
+          </gramGrp>
+        </form>
+        <form xml:id="CF301">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲉⲓ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <gen>f.</gen>
+            <number>sg.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF302">
+          <usg type="geo">S</usg>
+          <orth n="1">ⲁⲙⲱⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF303" status="deprecated" corresp="CF_newform1 CF_newform2">
+          <usg type="geo">S</usg>
+          <orth n="2">ⲁⲙⲏ(ⲉ)ⲓⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form type="inflected" xml:id="CF304">
+          <usg type="geo">S</usg>
+          <orth n="3">ⲁⲙⲏⲉⲓⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF305" status="deprecated" corresp="CF_newform1 CF_newform2">
+          <usg type="geo">A</usg>
+          <orth>ⲁⲙⲏ(ⲉ)ⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF306" status="deprecated" corresp="CF_newform1 CF_newform2">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏ(ⲉ)ⲓⲛⲉ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF307" status="deprecated" corresp="CF_newform1 CF_newform2">
+          <usg type="geo">L</usg>
+          <orth>ⲁⲙⲏ(ⲏ)ⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF308">
+          <usg type="geo">B</usg>
+          <orth>ⲁⲙⲱⲓⲛⲓ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF309">
+          <usg type="geo">F</usg>
+          <orth>ⲁⲙⲱⲓⲛⲓ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF310">
+          <usg type="geo">F</usg>
+          <orth n="1">ⲁⲙⲟⲓⲛⲓ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF311">
+          <usg type="geo">F</usg>
+          <orth n="2">ⲁⲙⲱⲛⲓ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF312">
+          <usg type="geo">F</usg>
+          <orth n="3">ⲁⲙⲱⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <form xml:id="CF313">
+          <usg type="geo">F</usg>
+          <orth n="4">ⲁⲙⲱⲓⲧⲛ</orth>
+          <gramGrp>
+            <pos>Vb.</pos>
+            <subc>Imperativ</subc>
+            <number>pl.</number>
+          </gramGrp>
+        </form>
+        <etym>
+          <xr type="cf">
+            <ref target="#ⲉⲓ">kommen</ref>
+          </xr>
+        </etym>
+        <sense>
+          <ref type="Greek">δεῦρο, ἐλθέ, ἔρχου, ἄγε, διαβὰς εἰς, ἀνάβα, ἀνάβηθι, κατάβα, κατάβηθι,
+          δεῦτε</ref>
+          <cit type="translation" xml:lang="de">
+            <quote>komm(t)!</quote>
+          </cit>
+          <cit type="translation" xml:lang="en">
+            <quote>come!</quote>
+          </cit>
+          <cit type="translation" xml:lang="fr">
+            <quote>viens, venez!</quote>
+          </cit>
+          <cit>
+            <bibl>CD 7b; CED 6; KoptHWb 5, 485; DELC 9; ChLCS 4a</bibl>
+          </cit>
+        </sense>
+      </entry>
+      <entry xml:id="C85">
+        <form type="lemma" xml:id="CF314">
+          <usg type="geo">S</usg>
+          <orth n="1">ⲁⲙⲟⲕ</orth>
+          <gramGrp>
+            <pos>Subst.</pos>
+          </gramGrp>
+        </form>
+        <form xml:id="CF315">
+          <usg type="geo">S</usg>
+          <orth n="1">ⲁⲙⲟⲕ</orth>
+          <gramGrp>
+            <pos>Subst.</pos>
+          </gramGrp>
+        </form>
+        <form xml:id="CF316">
+          <usg type="geo">S</usg>
+          <orth n="2">ⲁⲙⲟⲅ</orth>
+          <gramGrp>
+            <pos>Subst.</pos>
+          </gramGrp>
+        </form>
+        <etym>
+          <xr type="cf">
+            <ref target="#ⲱⲙⲕ">schlucken</ref>
+          </xr>
+        </etym>
+        <sense>
+          <cit type="translation" xml:lang="de">
+            <quote>ein Flüssigkeitsmaß</quote>
+          </cit>
+          <cit type="translation" xml:lang="en">
+            <quote>liquid measure</quote>
+          </cit>
+          <cit type="translation" xml:lang="fr">
+            <quote>mesure de liquide</quote>
+          </cit>
+          <cit>
+            <bibl>CD XV; KoptHWb 5, 485; ChLCS 4a</bibl>
+          </cit>
+        </sense>
+      </entry>
+      </superEntry>
