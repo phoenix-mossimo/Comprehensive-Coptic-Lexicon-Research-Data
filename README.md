@@ -20,7 +20,6 @@ The data in the "Code" section is organized according to the steps, along which 
 - Step 10: Removing parenthesis (round brackets) from orthographic variants
 - Step 11: Adopting the expression of “portmanteau” or “layered” forms
 - Step 12: Releasing Comprehensive Coptic Lexicon (CCL) V1.2
-- Step 13: Parsing Funk's lexicon
 
 The bugtracker of the Comprehensive Coptic Lexicon can be found at KELLIA's dictionary repository: https://github.com/KELLIA/dictionary/issues
 
