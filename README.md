@@ -122,4 +122,10 @@ Summary:
 - - Assigned dialect information to Sahidic forms, which, perceived as default, did not have dialect explicitly encoded: "usg type="geo""S"/usg".
 - - In line with LEX-0 conventions improved the structure of <sense> element, which now contains a unique ID and a single "cit type="translation"" tag.
 
+## Step 13: Parsing Funk's lexicon
+Summary:   
 
+- Singled two dialects out of Funk's lexicon: Bohairic and Akhmimic. 
+- Created plain XML files where each element corresponds to a row in Funk.
+- Merged elements with property "2" (form) into the corresponding elements with property "1" (lemma) assigning "part of speech" and "sense" values. 
+- Exported those as XLSX files for further analysis 
